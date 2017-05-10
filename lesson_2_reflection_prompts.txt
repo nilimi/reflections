@@ -7,11 +7,14 @@ What value do you think it offers?
 
 	The staging area allows you to make changes without affecting the orginals and before you make a commit.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can add the files that contained the changes for the logical commit to the staging area, compare to most recent commit in the repository and the local copy, or commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+	Branches allow you to make different versions of your code, like one in Italian or easy mode, but also allow you to update all the branches with the main branch instead of each one individually.
 
 How do the diagrams help you visualize the branch structure?
 
