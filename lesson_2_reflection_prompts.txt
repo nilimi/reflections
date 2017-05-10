@@ -14,9 +14,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-	Branches allow you to make different versions of your code, like one in Italian or easy mode, but also allow you to update all the branches with the main branch instead of each one individually.
+	Branches allow you to make different versions of your code, like one in Italian or easy mode, but also allow you to update all the branches with the main branch instead of each one individually.  The master branch can be production, while each branch is used for a new context, a new feature, a bug fix, etc.
 
 How do the diagrams help you visualize the branch structure?
+	
+	Diagrams help you see what commits are unreachable and what commits are in a branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
